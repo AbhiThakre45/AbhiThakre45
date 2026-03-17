@@ -1,9 +1,9 @@
 ## Hello, I'm Abhishek Thakre 👋
 
-🚀 Data Analyst skilled in SQL, Power BI, Excel, and Python  
-📊 Specialized in Exploratory Data Analysis (EDA), Descriptive Statistics, and Data Modeling  
-🤖 Knowledge of Machine Learning for predictive analytics  
-💡 Passionate about turning data into actionable business insights  
+ 🚀 Data Analyst skilled in SQL, Power BI, Excel, and Python  
+ 📊 Specialized in Exploratory Data Analysis (EDA), Descriptive Statistics, and Data Modeling  
+ 🤖 Knowledge of Machine Learning for predictive analytics  
+ 💡 Passionate about turning data into actionable business insights 
 ---
 
 ## 🚀 About Me
