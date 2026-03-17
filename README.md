@@ -86,7 +86,7 @@
 ## 📫 Connect with Me
 
 * 🔗 LinkedIn: https://www.linkedin.com/in/abhishek-thakre13/
-* 📧 Email: [your.email@gmail.com](abhishekthakre56989@gmail.com)
+* 📧 Email: abhishekthakre56989@gmail.com
 
 ---
 
