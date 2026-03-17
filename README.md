@@ -87,7 +87,7 @@
 ## 📫 Connect with Me
 
 * 🔗 LinkedIn: https://www.linkedin.com/in/abhishek-thakre13/
-* 📧 Email: - <a href="mailto:abhishekthakre56989@gmail.com">abhishekthakre56989@gmail.com</a>
+* 📧 Email: - [abhishekthakre56989@gmail.com](mailto:abhishekthakre56989@gmail.com)
 ---
 
 ⭐ *"Turning data into insights that drive decisions."*
