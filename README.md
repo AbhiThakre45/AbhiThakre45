@@ -4,6 +4,7 @@
   📊 Specialized in Exploratory Data Analysis (EDA), Descriptive Statistics, and Data Modeling  
   🤖 Knowledge of Machine Learning for predictive analytics  
   💡 Passionate about turning data into actionable business insights 
+  
 ---
 
 ## 🚀 About Me
