@@ -54,13 +54,14 @@
 
 ## 📊 Featured Projects
 
-### 🔹 E-Commerce Sales Analysis Dashboard
+### 🔹 Supply Chain Analytics & Delivery Delay Prediction
 
-* Developed an interactive Power BI dashboard to analyze sales trends, customer behavior, and regional performance
-* Applied data modeling and DAX calculations for KPIs
-* Identified top-performing products and revenue-driving regions
+• Analyzed 10,000+ supply chain records using Python (EDA) to identify delivery delay patterns  
+• Built machine learning models (Logistic Regression & Random Forest) achieving ~80% prediction accuracy  
+• Created interactive Power BI dashboards to track KPIs such as Orders, On-time Delivery, and Regional Performance  
+• Enabled data-driven insights by identifying key delay factors and optimizing supply chain efficiency   
 
----
+--- 
 
 ### 🔹 ICC Cricket World Cup 2023 Dashboard
 
