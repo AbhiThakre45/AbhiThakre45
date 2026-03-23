@@ -56,10 +56,10 @@
 
 ### 🔹 Supply Chain Analytics & Delivery Delay Prediction
 
-• Analyzed 10,000+ supply chain records using Python (EDA) to identify delivery delay patterns  
-• Built machine learning models (Logistic Regression & Random Forest) achieving ~80% prediction accuracy  
-• Created interactive Power BI dashboards to track KPIs such as Orders, On-time Delivery, and Regional Performance  
-• Enabled data-driven insights by identifying key delay factors and optimizing supply chain efficiency   
+* Analyzed 180+ supply chain records with 50+ features using Python (EDA) to identify delivery delay patterns  
+* Built machine learning models (Logistic Regression & Random Forest) achieving ~80% prediction accuracy  
+* Created interactive Power BI dashboards to track KPIs such as Orders, On-time Delivery, and Regional Performance   
+* Enabled data-driven insights by identifying key delay factors and optimizing supply chain efficiency   
 
 --- 
 
